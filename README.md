@@ -6,5 +6,7 @@ React was used for the front end, to send to requests to the API and present the
 
 A potential use case for this would be as a feature for a school site, where students can take the quiz. Potentially as a homework exercise where students must get a minimum score, the teacher can then see the results to verify this is the case.
 
+The link to this site is: https://quiz-app-414b99.netlify.app/
+
 https://user-images.githubusercontent.com/67014866/227562483-21bba70d-5e71-473c-bf2b-f6e63b62081b.mp4
 
